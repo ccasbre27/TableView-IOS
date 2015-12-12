@@ -13,6 +13,7 @@
 		78144F6D1C1BE88E007F787A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78144F6B1C1BE88E007F787A /* Main.storyboard */; };
 		78144F6F1C1BE88E007F787A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 78144F6E1C1BE88E007F787A /* Assets.xcassets */; };
 		78144F721C1BE88E007F787A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78144F701C1BE88E007F787A /* LaunchScreen.storyboard */; };
+		78144F7A1C1BEAC8007F787A /* creme_brelee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78144F791C1BEAC8007F787A /* creme_brelee.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		78144F6E1C1BE88E007F787A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		78144F711C1BE88E007F787A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		78144F731C1BE88E007F787A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78144F791C1BEAC8007F787A /* creme_brelee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = creme_brelee.jpg; path = ../../../../Downloads/creme_brelee.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 		78144F561C1BE88E007F787A = {
 			isa = PBXGroup;
 			children = (
+				78144F791C1BEAC8007F787A /* creme_brelee.jpg */,
 				78144F611C1BE88E007F787A /* TableView */,
 				78144F601C1BE88E007F787A /* Products */,
 			);
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				78144F721C1BE88E007F787A /* LaunchScreen.storyboard in Resources */,
+				78144F7A1C1BEAC8007F787A /* creme_brelee.jpg in Resources */,
 				78144F6F1C1BE88E007F787A /* Assets.xcassets in Resources */,
 				78144F6D1C1BE88E007F787A /* Main.storyboard in Resources */,
 			);
